@@ -35,6 +35,3 @@ The distance between the two points is: 7.07
 ## Author
 Name: Nithin Nickolleigh Dwaye Zxyndriah Y. Pagayonan
 Section: 8-Gumamela
-Name: Juan Dela Cruz
-
-Section: 8-Sampaguita
